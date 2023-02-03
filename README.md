@@ -1,4 +1,4 @@
-[![codewars](https://www.codewars.com/users/ditherx/badges/large)](https://www.codewars.com/users/ditherx)   
+[![codewars](https://www.codewars.com/users/DiTheRX/badges/large)](https://www.codewars.com/users/DiTheRX)   
 
 <!--
 **DiTheRX/DiTheRX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
