@@ -1,9 +1,9 @@
 [![codewars](https://www.codewars.com/users/DiTheRX/badges/large)](https://www.codewars.com/users/DiTheRX)   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiTheRX&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiTheRX&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiTheRX&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiTheRX&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DiTheRX&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiTheRX&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiTheRX&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiTheRX&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiTheRX&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DiTheRX&theme=github_dark)
 <!--
 **DiTheRX/DiTheRX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
