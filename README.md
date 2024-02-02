@@ -1,6 +1,6 @@
 [![codewars](https://www.codewars.com/users/DiTheRX/badges/large)](https://www.codewars.com/users/DiTheRX)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiTheRX&layout=donut-vertical&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  [![DiTheRX GitHub stats](https://github-readme-stats.vercel.app/api?username=DiTheRX&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiTheRX&layout=donut-vertical&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) <br />[![DiTheRX GitHub stats](https://github-readme-stats.vercel.app/api?username=DiTheRX&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiTheRX&theme=synthwave)
 
