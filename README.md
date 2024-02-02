@@ -1,12 +1,9 @@
 [![codewars](https://www.codewars.com/users/DiTheRX/badges/large)](https://www.codewars.com/users/DiTheRX)   
 
-[![DiTheRX GitHub stats](https://github-readme-stats.vercel.app/api?username=DiTheRX&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiTheRX&layout=donut-vertical&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiTheRX&layout=donut-vertical&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  [![DiTheRX GitHub stats](https://github-readme-stats.vercel.app/api?username=DiTheRX&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiTheRX&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiTheRX&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiTheRX&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiTheRX&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DiTheRX&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiTheRX&theme=synthwave)
+
 <!--
 **DiTheRX/DiTheRX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
